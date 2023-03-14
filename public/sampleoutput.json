@@ -1,0 +1,162 @@
+{
+    "status": "ok",
+    "totalResults": 13,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC Sport",
+            "title": "Home nations postpone football following Queen's death",
+            "description": "All English, Welsh and Northern Irish football and senior Scottish football is postponed this weekend as a mark of respect following the death of Queen Elizabeth II.",
+            "url": "http://www.bbc.co.uk/sport/62846756",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/FD7E/production/_126649846_gettyimages-1229083064.jpg",
+            "publishedAt": "2022-09-10T12:52:19.6612417Z",
+            "content": "Queen Elizabeth II, the UK's longest-serving monarch, died at Balmoral aged 96, after reigning for 70 years\r\nAll English, Welsh and Northern Irish football and senior Scottish football has been postp… [+5351 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": "FOX Sports",
+            "title": "College football odds Week 2: Best bets, why you should take Oklahoma",
+            "description": "Read why Geoff Schwartz is betting on Oklahoma, and dive into his other best wagers for Week 2 of the college football season.",
+            "url": "http://www.foxsports.com/stories/college-football/college-football-odds-week-2-best-bets-why-you-should-take-oklahoma",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/09/1408/814/9.7.22_Geoffs-CFB-Picks_CFB-16x9.jpg?ve=1&tl=1",
+            "publishedAt": "2022-09-09T21:54:47Z",
+            "content": "By Geoff Schwartz\r\nFOX Sports NFL Analyst\r\nI always say that time flies when you're having football, and it's true. We're already in Week 2 of the college football season. I hope all you bettors and … [+5918 chars]"
+        },
+        {
+            "source": {
+                "id": "four-four-two",
+                "name": "FourFourTwo"
+            },
+            "author": "PA Staff",
+            "title": "A closer look at decision to postpone football matches and what happens next?",
+            "description": "Football in the United Kingdom has been halted for the weekend in tribute to the death of the Queen, while other sports continue in the hope of communal remembrance.",
+            "url": "https://www.fourfourtwo.com/news/a-closer-look-at-decision-to-postpone-football-matches-and-what-happens-next-1662747110000",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/cG6m2KbFyE8fpmH2a5UXnD-1200-80.jpg",
+            "publishedAt": "2022-09-09T18:11:50Z",
+            "content": "Football in the United Kingdom has been halted for the weekend in tribute to the death of the Queen, while other sports continue in the hope of communal remembrance.\r\nHere, the PA news agency looks a… [+2539 chars]"
+        },
+        {
+            "source": {
+                "id": "four-four-two",
+                "name": "FourFourTwo"
+            },
+            "author": "PA Staff",
+            "title": "Football halts to honour the Queen as England managers lead tributes",
+            "description": "England manager Gareth Southgate paid tribute to the Queen’s years of impeccable duty after all football fixtures in the UK were postponed this weekend as a mark of respect following her death on Th",
+            "url": "https://www.fourfourtwo.com/news/football-halts-to-honour-the-queen-as-england-managers-lead-tributes-1662743806000",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/F8xTL2pqPdstDRg7YJkn6F-1200-80.jpg",
+            "publishedAt": "2022-09-09T17:16:46Z",
+            "content": "England manager Gareth Southgate paid tribute to the Queen’s years of impeccable duty after all football fixtures in the UK were postponed this weekend as a mark of respect following her death on Thu… [+5391 chars]"
+        },
+        {
+            "source": {
+                "id": "four-four-two",
+                "name": "FourFourTwo"
+            },
+            "author": "PA Staff",
+            "title": "Weekend’s football fixtures postponed but most other sports set to go on",
+            "description": "Sporting events including the England men’s cricket Test against South Africa will go ahead this weekend but football fixtures at all levels across the UK have been postponed as a mark of respect to",
+            "url": "https://www.fourfourtwo.com/news/weekends-football-fixtures-postponed-but-most-other-sports-set-to-go-on-1662730236000",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/JohKAEs5QBGsEdfWh6AyDc-1200-80.jpg",
+            "publishedAt": "2022-09-09T14:07:59Z",
+            "content": "Sporting events including the England men’s cricket Test against South Africa will go ahead this weekend but football fixtures at all levels across the UK have been postponed as a mark of respect to … [+4776 chars]"
+        },
+        {
+            "source": {
+                "id": "four-four-two",
+                "name": "FourFourTwo"
+            },
+            "author": "PA Staff",
+            "title": "Football fixtures in UK called off following the death of the Queen",
+            "description": "All football fixtures in the UK have been postponed this weekend following the death of Her Majesty The Queen on Thursday.",
+            "url": "https://www.fourfourtwo.com/news/football-fixtures-in-uk-called-off-following-the-death-of-the-queen-1662724125000",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/mRQe9s2TXMAbvXCPp96dyj-1200-80.jpg",
+            "publishedAt": "2022-09-09T12:28:06Z",
+            "content": "All football fixtures in the UK have been postponed this weekend following the death of Her Majesty The Queen on Thursday.\r\nSports event organisers from across the country were involved in a call wit… [+3099 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": "David Kenyon",
+            "title": "College Football: B/R Experts Answer Biggest Questions for Week 2",
+            "description": "After a five-day bonanza to begin the 2022 season, college football settles into a more typical slate in Week 2. Only two contests kick off Friday night, so...",
+            "url": "https://bleacherreport.com/articles/10048132-college-football-br-experts-answer-biggest-questions-for-week-2",
+            "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1662649574/fzfgmazpzdbsa9qyecp7.jpg",
+            "publishedAt": "2022-09-09T11:00:00Z",
+            "content": "Quinn Ewers | Tim Warner/Getty Images\r\nMax Escarpio\r\nNick Saban and the Crimson Tide travel to Austin as heavy favorites. Looking at both of the logos and seeing the storyline between the history of … [+2823 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": "FOX Sports",
+            "title": "NFL and college football odds: Bet on the Steelers and Wisconsin",
+            "description": "Football is back! Gambling expert Sammy P has you covered with his best NFL and college football bets heading into the big weekend.",
+            "url": "http://www.foxsports.com/stories/nfl/nfl-and-college-football-odds-bet-on-the-steelers-and-wisconsin",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/09/1408/814/09.8.22_Sammy-Ps-Early-Football-Picks_16x9.jpg?ve=1&tl=1",
+            "publishedAt": "2022-09-08T21:57:02Z",
+            "content": "By Sam Panayotovich\r\nFOX Sports Betting Analyst\r\nWhos ready for the first full weekend of NFL and college football?\r\nOur best bets (3-0 YTD) are off to a strong start, and Im feeling good about four … [+2536 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": "FOX Sports",
+            "title": "Texas' key vs. Bama, Wisconsin's scary QB foe and more we're watching in Week 2",
+            "description": "Can Bama stop Bijan? How will WSU's Ward fair against Wisconsin? RJ Young and Laken Litman preview Week 2 of the college football season.",
+            "url": "http://www.foxsports.com/stories/college-football/week-2-cfb-preview-texas-alabama-washington-state-wisconsin",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/09/1408/814/9.7.22.22_College-football-roundtable_16x9.jpg?ve=1&tl=1",
+            "publishedAt": "2022-09-08T11:46:52Z",
+            "content": "By RJ Young\r\n and Laken Litman\r\nFOX Sports College Football Writers\r\nNick Saban vs. Steve Sarkisian. Bijan Robinson vs. Will Anderson. Texas vs. Alabama.\r\nThere is no denying the epic matchup that hi… [+10830 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Field YatesESPN Insider ",
+            "title": "Fantasy football: field yates rookies running backs storylines week 1",
+            "description": "Field Yates uses his vast network of sources, including ESPN reporters and insiders, to provide the intel you need to set your lineup.",
+            "url": "http://espn.go.com/fantasy/football/insider/story/_/id/34536678/field-yates-fantasy-football-2022-players-storylines-watch-week-1",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0907%2Fr1058414_1296x729_16%2D9.jpg",
+            "publishedAt": "2022-09-08T10:27:00Z",
+            "content": "Welcome to Field Pass!\r\nIf you're new here, I've got some really good news for you: You're not alone. As a matter of fact, so am I, as today marks the debut of a column that I'm thrilled to present t… [+10467 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Tristan Greene",
+            "title": "Forget chess, DeepMind's training its new AI to play football",
+            "description": "Researchers from DeepMind, the UK's juggernaut AI lab, have forsaken the noble games of chess and Go for a more plebeian delight: football.\r\n\r\nThe Google sister company yesterday published ...",
+            "url": "http://thenextweb.com/news/forget-chess-deepminds-training-new-ai-play-football",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F09%2Fdeepmindfootball.jpg&signature=c9c7547e41dd0811817adb1b56c4a07d",
+            "publishedAt": "2022-09-01T22:09:19Z",
+            "content": "Researchers from DeepMind, the UKs juggernaut AI lab, have forsaken the noble games of chess and Go for a more plebeian delight: football.\r\nThe Google sister company yesterday published a research pa… [+3647 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+            "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+            "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+            "publishedAt": "2020-04-27T07:20:43Z",
+            "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+        }
+    ]
+}
